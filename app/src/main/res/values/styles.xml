@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Style.HeartCheckBox" parent="Widget.Material3.CompoundButton.CheckBox">
+        <item name="iconTint">@color/color_heart</item>
+    </style>
+
+    <style name="Style.HeartButton" parent="Widget.Material3.Button.TextButton">
+        <item name="iconTint">@color/color_heart</item>
+    </style>
+
+    <style name="Style.CountButton" parent="Widget.Material3.Button.TextButton">
+        <item name="iconTint">@color/normal</item>
+    </style>
+
+    <style name="Style.OptionsButton" parent="Widget.Material3.Button">
+        <item name="iconTint">@color/normal</item>
+    </style>
+
+    <style name="Style.NewPost" parent="Widget.MaterialComponents.BottomAppBar.Colored">
+        <item name="backgroundTint">@color/blue</item>
+    </style>
+
+    <style name="Style.EditPost" parent="Widget.MaterialComponents.BottomAppBar.Colored">
+        <item name="backgroundTint">@color/purple</item>
+    </style>
+
+</resources>

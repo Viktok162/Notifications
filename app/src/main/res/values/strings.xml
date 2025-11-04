@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="nmedia">NMedia!</string>
+    <string name="ic_Net" translatable="false">ic_Netology</string>
+    <string name="description_post_author_avatar">Post author avatar</string>
+    <string name="description_author_name">Author name</string>
+    <string name="menu">Menu</string>
+    <string name="liked" translatable="false">999</string>
+    <string name="shared" translatable="false">998</string>
+    <string name="looked" translatable="false">997</string>
+    <string name="heart">Icon heart</string>
+    <string name="share">Icon share</string>
+    <string name="eye">Icon eye</string>
+    <string name="menu_remove">Remove</string>
+
+    <string name="post_text">Post text</string>
+    <string name="error_empty_content">Content cannot be empty</string>
+    <string name="menu_edit">Edit</string>
+    <string name="cancel_edit">Cancel editing</string>
+    <string name="text_neto">text</string>
+    <string name="neto_name">Netology</string>
+    <string name="successful_edit">Ready</string>
+    <string name="edit_message" translatable="false">Edit message</string>
+    <string name="chooser_share_post">Choice</string>
+    <string name="fab" translatable="false">floatingActionButton</string>
+    <string name="error_empty_post">Post is blank</string>
+
+    <string name="google_play_unavailable">Google Play Services unavailable</string>
+
+
+</resources>

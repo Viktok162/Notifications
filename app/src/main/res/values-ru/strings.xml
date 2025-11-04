@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="nmedia">НМедиа!</string>
+    <string name="description_post_author_avatar">Аватар автора поста</string>
+    <string name="description_author_name">Имя автора</string>
+    <string name="menu">Меню</string>
+    <string name="heart">понравилось</string>
+    <string name="share">поделились</string>
+    <string name="eye">посмотрели</string>
+    <string name="menu_remove">Удалить</string>
+    <string name="post_text">Текст поста</string>
+    <string name="error_empty_content">Это поле не может быть пустым</string>
+    <string name="menu_edit">Редактировать</string>
+    <string name="cancel_edit">Отмена редактирования</string>
+    <string name="text_neto">текст</string>
+    <string name="neto_name">Нетология</string>
+    <string name="successful_edit">Готово</string>
+    <string name="chooser_share_post">Выбор</string>
+    <string name="error_empty_post">Пустой пост</string>
+    <string name="google_play_unavailable">Google Play Services недоступны</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_size">48dp</dimen>
+    <dimen name="icon_big_size">40dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="common_space">16dp</dimen>
+    <dimen name="min_size">8dp</dimen>
+
+</resources>
